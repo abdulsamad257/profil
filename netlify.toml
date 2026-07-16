@@ -1,0 +1,4 @@
+# Konfigurasi deploy Netlify untuk situs statis (HTML/CSS/JS).
+# Tidak ada proses build; cukup publikasikan folder ini apa adanya.
+[build]
+  publish = "."
