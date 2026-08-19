@@ -1,0 +1,7 @@
+# Normalisasi akhir baris agar konsisten di semua sistem operasi.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.docx binary
